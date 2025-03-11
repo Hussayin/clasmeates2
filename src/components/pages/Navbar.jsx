@@ -73,9 +73,9 @@ const Navbar = () => {
               </h1>
               <div className=" mt-[10px] bg-white rounded-2xl ">
                 <img
-                  src=""
+                  src="https://classmeats-uz.netlify.app/stey-mans/twins.webp"
                   alt="diredtor"
-                  className=" rounded-2xl h-[200px] w-[90vw] border-b-2 border-black "
+                  className=" rounded-2xl h-[240px] w-[90vw] border-b-2 object-cover object-top border-black "
                 />
                 <div className=" p-[9px]">
                   <h1 className=" text-[17px] font-nunito leading-4 font-bold text-black ">
@@ -89,9 +89,9 @@ const Navbar = () => {
 
               <div className=" mt-[10px] bg-white rounded-2xl ">
                 <img
-                  src=""
+                  src="https://classmeats-uz.netlify.app/stey-mans/twins.webp"
                   alt="diredtor"
-                  className=" rounded-2xl h-[200px] w-[90vw] border-b-2 border-black "
+                  className=" rounded-2xl h-[240px] w-[90vw] border-b-2 border-black object-cover object-top "
                 />
                 <div className=" p-[9px]">
                   <h1 className=" text-[17px] font-nunito leading-4 font-bold text-black ">
@@ -107,7 +107,7 @@ const Navbar = () => {
               <a
                 target="_blank"
                 href="https://maps.app.goo.gl/omJvA17WGV8NsfkD7"
-                className=" mt-[10px] bg-white rounded-2xl "
+                className=" mt-[10px] bg-white rounded-2xl mb-[70px] "
               >
                 <img
                   src={Location}

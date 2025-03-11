@@ -11,7 +11,7 @@ const Loader = () => {
     <div className="fixed top-0 gap-[20px] left-0 w-full h-full flex flex-col items-center justify-center bg-gray-900 text-white text-xl font-bold">
       <p className=" font-nunito mt-[10px] text-[25px] ">11-A Family</p>
       <img
-        src="https://classmeats-uz.netlify.app/all/LIFE0898.webp"
+        src="https://classmeats-uz.netlify.app/stey-mans/piknik-all.webp"
         alt="Loading..."
         className=" w-[80%] rounded-xl "
       />

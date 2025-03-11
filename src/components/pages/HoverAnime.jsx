@@ -16,7 +16,7 @@ export const Example = () => {
           "https://classmeats-uz.netlify.app/all/LIFE0689.webp",
           "https://classmeats-uz.netlify.app/all/LIFE0898.webp",
           "https://classmeats-uz.netlify.app/all/LIFE9967.webp",
-          "https://classmeats-uz.netlify.app/stey-mans/piknik.webp",
+          "https://classmeats-uz.netlify.app/stey-mans/piknik-all.webp",
           "https://classmeats-uz.netlify.app/stey-mans/twins.webp",
         ]}
       >

@@ -3,17 +3,22 @@ import { motion, AnimatePresence } from "framer-motion";
 import { heart } from "../../assets";
 
 const images = [
-  "https://classmeats-uz.netlify.app/stey-mans/abdulaziz.webp",
-  "https://classmeats-uz.netlify.app/stey-mans/abduloh.webp",
+  "https://classmeats-uz.netlify.app/stey-mans/abdullaziz.webp",
+  "https://classmeats-uz.netlify.app/stey-mans/abdulloh.webp",
   "https://classmeats-uz.netlify.app/stey-mans/anvar.webp",
+  "https://classmeats-uz.netlify.app/stey-mans/asaloy.webp",
   "https://classmeats-uz.netlify.app/stey-mans/bobamurod.webp",
   "https://classmeats-uz.netlify.app/stey-mans/bobur.webp",
+  "https://classmeats-uz.netlify.app/stey-mans/diyono.webp",
+  "https://classmeats-uz.netlify.app/stey-mans/humoyun.webp",
   "https://classmeats-uz.netlify.app/stey-mans/husan.webp",
   "https://classmeats-uz.netlify.app/stey-mans/malika.webp",
-  "https://classmeats-uz.netlify.app/stey-mans/madina.webp",
+  "https://classmeats-uz.netlify.app/stey-mans/laylo.webp",
+  "https://classmeats-uz.netlify.app/stey-mans/isloom.webp",
   "https://classmeats-uz.netlify.app/stey-mans/izzatbek.webp",
-  "https://classmeats-uz.netlify.app/stey-mans/sarvar.webp",
-  "https://classmeats-uz.netlify.app/stey-mans/sarvinoz.webp",
+  "https://classmeats-uz.netlify.app/stey-mans/madina.webp",
+  "https://classmeats-uz.netlify.app/stey-mans/nozima.webp",
+  "https://classmeats-uz.netlify.app/stey-mans/ogajon.webp",
 ];
 
 const FullscreenCarousel = () => {
